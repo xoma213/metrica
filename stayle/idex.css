@@ -1,0 +1,23 @@
+body {
+    font-family: "Manrope", sans-serif;
+    font-style: normal;
+}
+
+
+
+
+.hero_title {
+    font-family: Manrope;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 60px;
+
+}
+
+.hero_text {
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 20px;
+    
+
+}
