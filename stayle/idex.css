@@ -3,13 +3,20 @@ body {
     font-style: normal;
 }
 
-
-
-
-.hero_title {
+h1,button,p {
     font-family: Manrope;
     font-weight: 400;
     font-style: Regular;
+
+}
+
+
+
+.hero {
+    margin-bottom: 40px;
+}
+
+.hero_title {
     font-size: 60px;
 
 }
@@ -19,10 +26,8 @@ body {
     bottom: 20px;
     left: 20px;
     max-width: 350px;
-    font-family: Manrope;
     font-size: 16px;
     line-height: 1.5;
-    color: white;
 
 }
 
@@ -30,9 +35,35 @@ body {
     position: relative;
     width: 1150px;
     height: 500px;
-    background-image: url(../img/hero_img/ctel.png);
+    background-image: url(../img/hero_img/Rectangle\ 1.png);
     background-size: cover;
     color: white;
-    text-align: center;
     padding-top: 430px;
+}
+
+.about__title {
+    margin: 0 0 30px 0;
+    font-size: 18px;
+}
+
+.about__text {
+    margin-bottom: 30px;
+    font-size: 43px;
+    line-height: 61px;
+    width: 1075px;
+    text-align: left;
+}
+
+.about__btn {
+    border: 1px solid #AD1818;
+    font-size: 20px;
+    width: 255px;
+    height: 67px;
+    background-color: #AD1818;
+    border-radius: 5px;
+    color: blanchedalmond;
+}
+.about__btn:hover {
+    background-color: white;
+    color: #AD1818;
 }
