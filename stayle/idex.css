@@ -3,7 +3,9 @@
     font-style: normal;
 }
 
-h1,button,p {
+h1,
+button,
+p {
     font-family: Manrope;
     font-weight: 400;
     font-style: Regular;
@@ -67,9 +69,14 @@ h1,button,p {
     border-radius: 5px;
     color: blanchedalmond;
 }
+
 .about__btn:hover {
     background-color: white;
     color: #AD1818;
+}
+
+.project__item {
+    margin: 0 0 90px 0;
 }
 
 
@@ -107,4 +114,51 @@ h1,button,p {
     background-color: #fff;
     color: #AD1818;
     font-size: 19px;
-} 
+}
+
+
+.iteme__img {
+    width: 1150px;
+    height: 548px;
+    background-image: url(..//img/iteme_img/Rectangle\ 7.png);
+    background-size: cover;
+}
+
+.itemea__img {
+    width: 1150px;
+    height: 548px;
+    background-image: url(..//img/itemea_img/Rectangle\ 7\ \(1\).png);
+    background-size: cover;
+}
+
+.but__bon {
+    width: 1150px;
+    height: 153px;
+    margin: 0 auto;
+    color: #AD1818;
+    border-radius: 5px;
+    border: 1px solid #AD1818;
+}
+
+.but__bon:hover {
+    background-color: #AD1818;
+    color: #fff;
+}
+
+
+.box-wrapper {
+    margin: 150px 0 0 0;
+    width: 1400px;
+    height: 1844px;
+    box-sizing: border-box;
+    background-color: #121212;
+}
+
+.box__text {
+    margin: 0 0 0 127px;
+    font-size: 18px;
+    width: 66px;
+    height: 25px;
+    color: #fff;
+}
+
