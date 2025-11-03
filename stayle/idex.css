@@ -75,6 +75,10 @@ p {
     color: #AD1818;
 }
 
+.project {
+    margin: 0 0 150px 0;
+}
+
 .project__item {
     margin: 0 0 90px 0;
 }
@@ -132,7 +136,7 @@ p {
 }
 
 .but__bon {
-    width: 1150px;
+    width: 100%;
     height: 153px;
     margin: 0 auto;
     color: #AD1818;
@@ -146,19 +150,93 @@ p {
 }
 
 
-.box-wrapper {
-    margin: 150px 0 0 0;
-    width: 1400px;
+.servies {
+    padding: 151px 0 0 0;
+    width: 100%;
     height: 1844px;
     box-sizing: border-box;
     background-color: #121212;
 }
 
-.box__text {
-    margin: 0 0 0 127px;
+.servies__title {
     font-size: 18px;
-    width: 66px;
-    height: 25px;
+    color: #fff;
+}
+
+.servies__title {
+    margin: 0 0 34px 0;
+}
+
+.services__img {
+    width: 1150px;
+    height: 270px;
+    background-image: url(..//img/services_img/Rectangle\ 2.png);
+    background-size: cover;
+    margin: 0 0 15px 0;
+}
+
+
+.services__text {
+    width: 541px;
+    height: 41px;
+    color: #fff;
+    margin: 0 0 60px 0;
+}
+
+.servicesa__img {
+    width: 1150px;
+    height: 270px;
+    background-image: url(..//img/servicesa_img/Rectangle\ 3.png);
+    background-size: cover;
+    margin: 0 0 15px 0;
+}
+
+.servicesa__text {
+    width: 541px;
+    height: 41px;
+    color: #fff;
+    margin: 0 0 60px 0;
+}
+
+.serviceas__img {
+    width: 1150px;
+    height: 270px;
+    background-image: url(..//img/serviseas_img/Rectangle\ 4.png);
+    background-size: cover;
+    margin: 0 0 15px 0;
+}
+
+.serviceas__text {
+    width: 541px;
+    height: 41px;
+    color: #fff;
+    margin: 0 0 60px 0;
+}
+
+.serviseasi__img {
+    width: 1150px;
+    height: 270px;
+    background-image: url(..//img/serviseasi_img/Rectangle\ 5.png);
+    background-size: cover;
+    margin: 0 0 15px 0;
+}
+
+.serviceasi__text {
+    width: 541px;
+    height: 41px;
+    color: #fff;
+    margin: 0 0 60px 0;
+}
+
+
+.frame__img {
+    width: 1400px;
+    height: 717px;
+    background-image: url(..//img/frame_img/Rectangle\ 10.png);
+    background-size: cover;
+}
+
+.frame__text {
     color: #fff;
 }
 
