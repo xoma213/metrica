@@ -230,10 +230,10 @@ p {
 
 
 .frame__img {
-    width: 1400px;
+    width: 100%;
     height: 717px;
     background-image: url(..//img/frame_img/Rectangle\ 10.png);
-    background-size: cover;
+    /* background-size: cover; */
 }
 
 .frame__text {
