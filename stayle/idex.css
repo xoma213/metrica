@@ -237,6 +237,10 @@ p {
 }
 
 .frame__text {
+    width: 443px;
+    height: 82px;
+    padding: 515px 0 0 125px;
+    font-size: 21px;
     color: #fff;
 }
 
